@@ -37,7 +37,7 @@ A web app where you can:
 ## Project Structure
 
 ```
-coding_intro/
+Creature-Generator-Lab/
 ├── app.py                 # Streamlit user interface (presentation layer)
 ├── creature.py            # All the logic: generation, SQT seeding, avatars
 ├── regions.json           # Data file — easy to edit regions and modifiers
@@ -60,8 +60,9 @@ coding_intro/
 ### 1. Setup
 
 ```bash
-# Clone or download this repository
-cd coding_intro
+# Clone the repository
+git clone https://github.com/Interwoven-Projects/Creature-Generator-Lab.git
+cd Creature-Generator-Lab
 
 # Create a virtual environment (recommended)
 python -m venv .venv
