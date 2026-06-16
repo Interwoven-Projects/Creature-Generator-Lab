@@ -1,0 +1,82 @@
+{
+  "Forest": {
+    "description": "Lush green forests full of life and creativity.",
+    "modifiers": {
+      "strength": 1.05,
+      "speed": 1.10,
+      "intelligence": 1.15,
+      "creativity": 1.25,
+      "charm": 1.10
+    }
+  },
+  "Mountain": {
+    "description": "Tall, rugged peaks that build toughness and focus.",
+    "modifiers": {
+      "strength": 1.25,
+      "speed": 0.90,
+      "intelligence": 1.10,
+      "creativity": 0.95,
+      "charm": 0.85
+    }
+  },
+  "Ocean": {
+    "description": "Deep blue waters that reward adaptability and wisdom.",
+    "modifiers": {
+      "strength": 1.10,
+      "speed": 1.15,
+      "intelligence": 1.20,
+      "creativity": 1.05,
+      "charm": 1.15
+    }
+  },
+  "Desert": {
+    "description": "Harsh and dry lands that test endurance.",
+    "modifiers": {
+      "strength": 1.20,
+      "speed": 1.05,
+      "intelligence": 0.95,
+      "creativity": 1.10,
+      "charm": 0.90
+    }
+  },
+  "City": {
+    "description": "Busy urban environments full of people and ideas.",
+    "modifiers": {
+      "strength": 0.95,
+      "speed": 1.10,
+      "intelligence": 1.25,
+      "creativity": 1.15,
+      "charm": 1.20
+    }
+  },
+  "Tundra": {
+    "description": "Cold, quiet lands that require patience and strength.",
+    "modifiers": {
+      "strength": 1.15,
+      "speed": 0.95,
+      "intelligence": 1.10,
+      "creativity": 0.90,
+      "charm": 0.85
+    }
+  },
+  "Volcano": {
+    "description": "Fiery and dangerous lands that create bold creatures.",
+    "modifiers": {
+      "strength": 1.30,
+      "speed": 1.00,
+      "intelligence": 0.90,
+      "creativity": 1.05,
+      "charm": 0.80
+    }
+  },
+  "Plains": {
+    "description": "Wide open grasslands that favor speed and balance.",
+    "modifiers": {
+      "strength": 1.00,
+      "speed": 1.25,
+      "intelligence": 1.05,
+      "creativity": 1.00,
+      "charm": 1.10
+    }
+  }
+}
